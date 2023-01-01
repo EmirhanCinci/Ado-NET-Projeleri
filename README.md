@@ -1,2 +1,3 @@
-# Ado-NET-Projeleri
-Çalıştığım Ado-Net Projeleri
+# Ado-NET Projeleri
+
+1. İngilizce - Türkçe Kelime Oyunu
